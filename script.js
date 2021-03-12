@@ -1,4 +1,3 @@
-alert("Created By: simplecalc12. On GitHub");
 function getHistory(){
 	return document.getElementById("history-value").innerText;
 }
